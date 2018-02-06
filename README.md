@@ -1,1 +1,1 @@
-# Welcome to my Awesome new website thingy
+# Welcome to my Awesome new website!
