@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Alex, I have a couple apps on the app store. I like watching netflix and solving problems with code. I'm a freelancer and yeah I guess that's about it😁
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[alexander@hammers.me](mailto:alexander@hammers.me)
